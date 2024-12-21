@@ -5,7 +5,6 @@ VG Direct is a web application designed to provide video game information, user 
 ## Live Links
 
 - **Frontend Render**: [VG Direct Frontend](https://vg-direct-frontend.onrender.com/)
-- **Backend Render**: [VG Direct Backend](https://vg-direct-backend-1.onrender.com/)
 
 ## Repositories
 
@@ -27,7 +26,7 @@ Currently, VG Direct is hosted on the free tier of [Render.com](https://render.c
 - Free Render instances are slower and may timeout quickly if inactive.
 - To ensure smooth operation, **load the backend first** in a browser tab and then open the frontend immediately afterward. This keeps both services active simultaneously.
 
-Known Issues
+#### Known Issues
 
 Reloading the page when not on the homepage may throw a "404 Not Found" error. I believe this is due to the free tier of Render.com, as it lacks consistency in its hosting services. During testing, I found that this issue occurs randomly and without a clear pattern. Thank you for your patience if you encounter this.
 
